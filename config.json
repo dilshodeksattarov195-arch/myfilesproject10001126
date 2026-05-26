@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterdave",
+        "uuid": 10181292,
+        "checksum": "a8otg"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
